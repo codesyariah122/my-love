@@ -2,7 +2,7 @@
     <!-- Gallery Section -->
     <section id="gallery" class="py-12 bg-gray-100">
       <div class="container mx-auto">
-        <h2 class="text-4xl font-bold text-center mb-8">Gallery Perjalanan Bersama</h2>
+        <h2 class="text-4xl font-bold text-center mb-8">Gallery Perjalanan BersamaG</h2>
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
           <div class="relative bg-white shadow-lg rounded-lg overflow-hidden">
             <img src="/assets/Puji&Fitri/IMG-20240915-WA0009.jpg" alt="Foto 1" class="w-full h-auto" />

@@ -2,7 +2,6 @@
   <section class="relative h-screen">
     <!-- Background Video -->
     <div class="absolute inset-0 z-0 overflow-hidden">
-   
       <iframe
         class="w-full h-full"
         src="https://www.youtube.com/embed/2HzcTCUqAEw?si=JTSE0g-3KxO-xfpU&autoplay=1&mute=1&loop=1&playlist=2HzcTCUqAEw&controls=0&showinfo=0&modestbranding=0&rel=0"
@@ -15,9 +14,7 @@
     </div>
 
     <!-- Content on top of the video -->
-    <div
-      class="relative z-10 flex items-center justify-center h-full bg-black bg-opacity-50"
-    >
+    <div class="relative z-10 flex items-center justify-center h-full bg-black bg-opacity-50">
       <div class="text-center text-white">
         <h1 class="text-5xl font-extrabold mb-4">Welcome to Our Love Story</h1>
         <p class="text-xl">The Journey of Puji Ermanto & Fitri Kulsum</p>
@@ -37,5 +34,21 @@
 </script>
 
 <style scoped>
-/* Optional: add some custom styles here */
+/* Custom styles to ensure responsive video */
+section {
+  position: relative;
+  overflow: hidden;
+}
+
+iframe {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100vw; /* 100% of the viewport width */
+  height: 100vh; /* 100% of the viewport height */
+  min-width: 100%; /* Minimum width */
+  min-height: 100%; /* Minimum height */
+  transform: translate(-50%, -50%); /* Center the iframe */
+  object-fit: cover; /* Cover the entire area */
+}
 </style>

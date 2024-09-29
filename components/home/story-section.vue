@@ -89,6 +89,15 @@
           </div>
         </swiper-slide>
       </swiper>
+
+      <div class="flex justify-center mt-4">
+        <button @click="slideToPrev" class="swiper-button-prev">
+          &#10094; Prev
+        </button>
+        <button @click="slideToNext" class="swiper-button-next">
+          Next &#10095;
+        </button>
+      </div>
     </div>
   </section>
 </template>

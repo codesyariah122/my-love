@@ -33,7 +33,7 @@
             <!-- Gambar -->
             <div class="flex justify-center">
               <img
-                src="/assets/Puji&Fitri/IMG-20240820-WA0140.jpg"
+                src="/assets/Puji&fitri/IMG-20240820-WA0140.jpg"
                 alt="Chat WhatsApp"
                 class="rounded-lg w-80"
               />
@@ -61,7 +61,7 @@
             <!-- Gambar -->
             <div class="flex justify-center">
               <img
-                src="/assets/Puji&Fitri/IMG-20240922-WA0005.jpg"
+                src="/assets/Puji&fitri/IMG-20240922-WA0005.jpg"
                 alt="Chat WhatsApp"
                 class="rounded-lg w-80"
               />
@@ -89,7 +89,7 @@
             <!-- Gambar -->
             <div class="flex justify-center">
               <img
-                src="/assets/Puji&Fitri/IMG-20240826-WA0000.jpg"
+                src="/assets/Puji&fitri/IMG-20240826-WA0000.jpg"
                 alt="Kunjungan Pertama"
                 class="rounded-lg w-80"
               />
@@ -114,7 +114,7 @@
             <!-- Gambar -->
             <div class="flex justify-center">
               <img
-                src="/assets/Puji&Fitri/Polish_20240817_143820698.jpg"
+                src="/assets/Puji&fitri/Polish_20240817_143820698.jpg"
                 alt="Kenangan Pertemuan"
                 class="rounded-lg w-80"
               />
